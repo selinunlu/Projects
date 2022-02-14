@@ -1,11 +1,11 @@
-main.ipynb - Bu dosya çalıştırıldığında data klasörü içinden ses sinyali analiz edilerek tek kanallı ses kaynağı ayrıştırma işlemi yapılarak ham insan sesi verisi elde edilmeye çalışılır. Tüm grafikler ve analizler bu dosyadaki kodun içindedir.
-data/sample1.wav - Örnek Ses 1
-data/sample1_filtered.wav - Örnek Ses 1 Filtreleme Sonrası
-data/sample2.wav - Örnek Ses 2
-data/sample2_filtered.wav - Örnek Ses 2 Filtreleme Sonrası
-data/sample3.wav - Örnek Ses 3
-data/sample3_filtered.wav - Örnek Ses 3 Filtreleme Sonrası
-data/song.wav - Örnek Ses 4
-data/song_filtered.wav - Örnek Ses 4 Filtreleme Sonrası
-data/song2.wav - Örnek Ses 5
-data/song2_filtered.wav - Örnek Ses 5 Filtreleme Sonrası
+single-channel-audio-source-separation.ipynb - Bu dosya Ã§alÄ±ÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda data klasÃ¶rÃ¼ iÃ§inden ses sinyali analiz edilerek tek kanallÄ± ses kaynaÄŸÄ± ayrÄ±ÅŸtÄ±rma iÅŸlemi yapÄ±larak ham insan sesi verisi elde edilmeye Ã§alÄ±ÅŸÄ±lÄ±r. TÃ¼m grafikler ve analizler bu dosyadaki kodun iÃ§indedir.
+data/sample1.wav - Ã–rnek Ses 1
+data/sample1_filtered.wav - Ã–rnek Ses 1 Filtreleme SonrasÄ±
+data/sample2.wav - Ã–rnek Ses 2
+data/sample2_filtered.wav - Ã–rnek Ses 2 Filtreleme SonrasÄ±
+data/sample3.wav - Ã–rnek Ses 3
+data/sample3_filtered.wav - Ã–rnek Ses 3 Filtreleme SonrasÄ±
+data/song.wav - Ã–rnek Ses 4
+data/song_filtered.wav - Ã–rnek Ses 4 Filtreleme SonrasÄ±
+data/song2.wav - Ã–rnek Ses 5
+data/song2_filtered.wav - Ã–rnek Ses 5 Filtreleme SonrasÄ±

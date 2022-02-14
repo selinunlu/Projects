@@ -1,1 +1,1 @@
-# Determinant
+# Bookshop System

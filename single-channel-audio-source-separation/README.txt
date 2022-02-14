@@ -1,4 +1,7 @@
+# Single Channel Audio Source Separation
+
 single-channel-audio-source-separation.ipynb - Bu dosya çalıştırıldığında data klasörü içinden ses sinyali analiz edilerek tek kanallı ses kaynağı ayrıştırma işlemi yapılarak ham insan sesi verisi elde edilmeye çalışılır. Tüm grafikler ve analizler bu dosyadaki kodun içindedir.
+
 data/sample1.wav - Örnek Ses 1
 data/sample1_filtered.wav - Örnek Ses 1 Filtreleme Sonrası
 data/sample2.wav - Örnek Ses 2
